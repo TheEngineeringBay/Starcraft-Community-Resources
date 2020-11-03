@@ -12,7 +12,7 @@ https://github.com/TheEngineeringBay/Awesome-Broodwar-Resources
 Maintained by TheEngineeringBay, a discord server supporting technical contributions to the starcraft community [Link](https://discord.com/invite/cV5tzs5)
 
 ## Table of Contents
-- [Wikis]#(Wiki)
+- [Wikis](#Wiki)
 - [Forums](#forums)
 - [Discord](#discord)
 - [Youtube](#youtube)
