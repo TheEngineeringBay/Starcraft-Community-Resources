@@ -35,11 +35,11 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Broodwar Reddit](https://www.reddit.com/r/broodwar/)  A subreddit dedicated exclusively to broodwar content.
 - [Blizzard Forums](https://us.forums.blizzard.com/en/starcraft/) The official blizzard forums
 - [Staredit Network](http://www.staredit.net/) The community forum for Starcraft mappers modders and players
-- [Starcraft World](https://starcraftworld.com/) Faster map possible 1v1 and 2v2 ladder community
+- [Starcraft World](https://starcraftworld.com/) Faster map possible 1v1 and 2v2 ladder communjjjjjkity
 - [Reps RU](https://defiler.ru/) Home of the Russian Cyber Games
 
 ## Discord
-- [The Engineering Bay](https://discord.com/invite/cV5tzs5) Supporting and enabling technical (programming/arts) contributions to the starcraft community
+- [The Engineering Bay](https://discord.com/invite/cV5tzs5) Supporting technical (programming/arts) contributions to the starcraft community
 - [SSCAIT](https://discord.com/channels/226400736013975552/746721989791711312/746722414871969832)
 - [Liquipedia](https://discord.com/invite/liquipedia) 
 - [Oceanic Broodwar](https://discord.gg/QgH72rb) Austrlian and New Zealand Broodwar community discord
@@ -48,7 +48,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 
 ## Youtube
 
-### Twitch
+## Twitch
 
 ## Replays
 - [BWreplays](http://bwreplays.com/) 
