@@ -51,12 +51,14 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Twitch
 - [Artosis](https://www.twitch.tv/artosis) ASL/GSL commentator and top US terran (occasional troll protoss) Artosis has regular empassioned tilt and fairly loose chat rules.
 - [Jaeyun](https://www.twitch.tv/jaeyun) Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR
+- [80sMullet](https://www.twitch.tv/80smullet) "The People's Terran" Chill-bro terran stream 1700-1820 MMR
 - [G5](https://www.twitch.tv/g5media) Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [kwark](https://www.twitch.tv/kwark_uk) UK Protoss player with regular game talk
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
+- [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previosuly in Korea working towards pro  (1900-2100 MMR)
 
 
 ## Replays
