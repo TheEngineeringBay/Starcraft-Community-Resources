@@ -58,7 +58,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [kwark](https://www.twitch.tv/kwark_uk) UK Protoss player with regular game talk
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
-- [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previosuly in Korea working towards pro  (1900-2100 MMR)
+- [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR)
 
 
 ## Replays
