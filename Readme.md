@@ -55,10 +55,14 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [G5](https://www.twitch.tv/g5media) Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
-- [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [kwark](https://www.twitch.tv/kwark_uk) UK Protoss player with regular game talk
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
 - [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR)
+- [Fathersc](https://www.twitch.tv/father_sc) Relaxed Terran stream
+- [Herbmon](https://www.twitch.tv/herbmon) Off the cuff zerg stream. Fun zvzs. Often plays UMS
+- [Bonyth](https://www.twitch.tv/bonyth) Top Polish Terran and BSL 8/9 winner 
+- [Hazelynut](https://www.twitch.tv/hazelynut) Zerg player, community tournament organizer. Great tutorial resource for new players
+
 
 
 ## Replays
