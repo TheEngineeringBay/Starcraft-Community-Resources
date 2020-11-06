@@ -73,6 +73,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Hazelynut](https://www.twitch.tv/hazelynut) Zerg player, community/tournament organizer. Great tutorial resource for new players
 - [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
+- [Machine](https://www.twitch.tv/machineusa) Top US Zerg player and all around nice guy
 
 ### Tournaments:
 - [Have at you!](https://www.twitch.tv/schamtoo) Have at you streaming location (when not streaming Schamtoo first person)
