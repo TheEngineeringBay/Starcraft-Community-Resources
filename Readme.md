@@ -56,7 +56,6 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [kwark](https://www.twitch.tv/kwark_uk) UK Protoss player with regular game talk
-- [G5](https://www.twitch.tv/g5media) Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
 
 
