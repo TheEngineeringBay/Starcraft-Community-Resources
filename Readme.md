@@ -32,7 +32,8 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Tournaments
 - [ASL](https://www.youtube.com/watch?v=ta-zZKfeZUA&list=PLo2fPnM8EiQxasMyU-dcUGlrNzqeX_jAL) The premier tournament for professional starcraft players
 - [BSL](https://bombasticstarleague.com/) The premier tournament for foreigner (outside of Korea) starcraft
-
+- [Turf Wars](https://liquipedia.net/starcraft/Turf_Wars) North American team league with an irreverent focus
+- [Have at you!](https://battlefy.com/have-at-you) Semi-weekly 1v1 open bracket tournament with a donation based prize pool. Hosted by Schamtoo
 
 ## Forums
 - [Teamliquid](https://tl.net/) The oldest and most prestigious starcraft community forum. 
@@ -54,10 +55,12 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Youtube
 
 ## Twitch
+### Personalities:
 - [Artosis](https://www.twitch.tv/artosis) ASL/GSL commentator and top US terran (occasional troll protoss) Artosis has regular empassioned tilt and fairly loose chat rules.
 - [Tasteless](https://www.twitch.tv/tastelesstv) ASL/GSL commentator and top US protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
 - [Jaeyun](https://www.twitch.tv/jaeyun) Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR
 - [80sMullet](https://www.twitch.tv/80smullet) "The People's Terran" Chill-bro terran stream 1700-1820 MMR
+- [Futuresc](https://www.twitch.tv/future_sc) US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
 - [G5](https://www.twitch.tv/g5media) Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players
 - [gypsy](https://www.twitch.tv/gypsy93) Top Canadian Terran player with tutorial tidbits
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
@@ -68,6 +71,12 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Herbmon](https://www.twitch.tv/herbmon) Off the cuff zerg stream. Fun zvzs. Often plays UMS
 - [Bonyth](https://www.twitch.tv/bonyth) Top Polish Terran and BSL 8/9 winner 
 - [Hazelynut](https://www.twitch.tv/hazelynut) Zerg player, community/tournament organizer. Great tutorial resource for new players
+- [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
+- [DocHoliday](https://www.twitch.tv/docholiday_tv) Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
+
+### Tournaments:
+- [Have at you!](https://www.twitch.tv/schamtoo) Have at you streaming location (when not streaming Schamtoo first person)
+- [BSL](https://www.twitch.tv/zzzeropl) BSL streaming location (occasional ZZZeropl first person stream)
 
 
 
