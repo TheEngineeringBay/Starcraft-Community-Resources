@@ -49,6 +49,10 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Youtube
 
 ## Twitch
+- [Jaeyun](https://www.twitch.tv/jaeyun) Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR
+- [Masterrey](https://www.twitch.tv/masterrey)
+- [gypsy](https://www.twitch.tv/gypsy93)
+- [kwark](https://www.twitch.tv/kwark_uk)
 
 ## Replays
 - [BWreplays](http://bwreplays.com/) 
