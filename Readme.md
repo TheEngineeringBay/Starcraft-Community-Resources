@@ -68,7 +68,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
 - [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR)
 - [Fathersc](https://www.twitch.tv/father_sc) Relaxed Terran stream
-- [Herbmon](https://www.twitch.tv/herbmon) Off the cuff zerg stream. Fun zvzs. Often plays UMS
+- [Herbmon](https://www.twitch.tv/herbmon) Off the cuff zerg/caster stream. Fun zvzs. Often plays UMS
 - [Bonyth](https://www.twitch.tv/bonyth) Top Polish Terran and BSL 8/9 winner 
 - [Hazelynut](https://www.twitch.tv/hazelynut) Zerg player, community/tournament organizer. Great tutorial resource for new players
 - [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
