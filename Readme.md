@@ -59,6 +59,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Artosis](https://www.twitch.tv/artosis) ASL/GSL commentator and top US terran (occasional troll protoss) Artosis has regular empassioned tilt and fairly loose chat rules.
 - [Bonyth](https://www.twitch.tv/bonyth) Top Polish Terran and BSL 8/9 winner 
 - [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR)
+- [cRoSsiee](https://www.twitch.tv/crossiee) S Rank zerg, originally from South Korea currently residing in Canada
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
 - [Fathersc](https://www.twitch.tv/father_sc) Relaxed Terran stream
 - [Futuresc](https://www.twitch.tv/future_sc) US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
