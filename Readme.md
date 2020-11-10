@@ -76,7 +76,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
 - [Tasteless](https://www.twitch.tv/tastelesstv) ASL/GSL commentator and top US protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
 
-### Tournaments:
+### Tournament Streams:
 - [BSL](https://www.twitch.tv/zzzeropl) BSL streaming location (occasional ZZZeropl first person stream)
 - [Have at you!](https://www.twitch.tv/schamtoo) Have at you streaming location (when not streaming Schamtoo first person)
 - [SSCAIT](https://www.twitch.tv/sscait) 24/7 AI vs AI stream, with automatic camera that pans to where action is happening
