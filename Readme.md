@@ -78,7 +78,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ### Tournaments:
 - [Have at you!](https://www.twitch.tv/schamtoo) Have at you streaming location (when not streaming Schamtoo first person)
 - [BSL](https://www.twitch.tv/zzzeropl) BSL streaming location (occasional ZZZeropl first person stream)
-
+- [SSCAIT](https://www.twitch.tv/sscait) 24/7 AI vs AI stream, with automatic camera that pans to where action is happening
 
 
 ## Replays
