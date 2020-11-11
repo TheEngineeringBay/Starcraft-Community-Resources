@@ -55,7 +55,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) ASL/GSL youtube channel
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream
-- [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) Greth commentates low level/BGH and other matches with a focus on fun
+- [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) Greth commentates low level/FFA and other matches with a focus on fun
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) LMasters starcraft channel highlighting foreigner starcraft players and tutorials 
 - [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) Moletrap's home channel covering OSL/MSL games of years past
 - [Nyoken](https://www.youtube.com/channel/UCfnhc230Rvg9yOzDr-Y_dBQ) Home channel of BSL commentator Nyoken containing a few extremely informative videos
