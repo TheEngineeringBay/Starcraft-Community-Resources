@@ -47,11 +47,22 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Discord
 - [Liquipedia](https://discord.com/invite/liquipedia) 
 - [Oceanic Broodwar](https://discord.gg/QgH72rb) Austrlian and New Zealand Broodwar community discord
+- [Rookie Star League](https://discord.com/invite/Q5xScXGMss) A competitive discord community for new players
 - [SSCAIT](https://discord.com/channels/226400736013975552/746721989791711312/746722414871969832)
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) Mapping, modding, and tools community
 - [The Engineering Bay](https://discord.com/invite/cV5tzs5) Supporting technical (programming/arts) contributions to the starcraft community
 
 ## Youtube
+- [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) ASL/GSL youtube channel
+- [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream
+- [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) Greth commentates low level/BGH and other matches with a focus on fun
+- [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) LMasters starcraft channel highlighting foreigner starcraft players and tutorials 
+- [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) Moletrap's home channel covering OSL/MSL games of years past
+- [Nyoken](https://www.youtube.com/channel/UCfnhc230Rvg9yOzDr-Y_dBQ) Home channel of BSL commentator Nyoken containing a few extremely informative videos
+- [SC:BW Dual FPVOD](https://www.youtube.com/channel/UCBy3Tyss3Efm9rIUuj0X00Q) Dual first person views of professional Korean players
+- [StarcraftTV](https://www.youtube.com/channel/UCZv1jNT2Fe3uLC9oPrw9oOQ) StarCastTV features a number of casters covering top level Korean replays
+- [Rise](https://www.youtube.com/channel/UCWC62qc2upqCyZPLT6qtxGA) Rise commentates top level Foreigner replays
+
 
 ## Twitch
 ### Personalities:
