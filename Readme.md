@@ -82,7 +82,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [kwark](https://www.twitch.tv/kwark_uk) UK Protoss player with regular game talk
 - [Machine](https://www.twitch.tv/machineusa) Top US Zerg player and all around nice guy
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
-- [Moletrap](ttps://www.twitch.tv/moletrap) Live re-broadcasts of old OSL/MSL finals matches with high production value 
+- [Moletrap](https://www.twitch.tv/moletrap) Live re-broadcasts of old OSL/MSL finals matches with high production value 
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
 - [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
 - [Tasteless](https://www.twitch.tv/tastelesstv) ASL/GSL commentator and top US protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
