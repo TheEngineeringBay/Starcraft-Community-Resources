@@ -67,7 +67,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 ## Twitch
 ### Personalities:
 - [80sMullet](https://www.twitch.tv/80smullet) "The People's Terran" Chill-bro terran stream 1700-1820 MMR
-- [Artosis](https://www.twitch.tv/artosis) ASL/GSL commentator and top US terran (occasional troll protoss) Artosis has regular empassioned tilt and fairly loose chat rules.
+- [Artosis](https://www.twitch.tv/artosis) ASL/GSL commentator and top US terran (occasional troll protoss) Artosis has regular Impassioned tilt and fairly loose chat rules.
 - [Bonyth](https://www.twitch.tv/bonyth) Top Polish Terran and BSL 8/9 winner 
 - [Cadenzie](https://www.twitch.tv/cadenzie) Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR)
 - [cRoSsiee](https://www.twitch.tv/crossiee) S Rank zerg, originally from South Korea currently residing in Canada
@@ -84,7 +84,7 @@ Maintained by TheEngineeringBay, a discord server supporting technical contribut
 - [Masterrey](https://www.twitch.tv/masterrey) German Protoss player (maker of SCR: Chart)
 - [Moletrap](https://www.twitch.tv/moletrap) Live re-broadcasts of old OSL/MSL finals matches with high production value 
 - [Nyoken](https://www.twitch.tv/nyoken) BSL Commentator and top US Terran 
-- [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Tilt/rage stream similar to Artosis.
+- [Schamtoo](https://www.twitch.tv/schamtoo) Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis.
 - [Tasteless](https://www.twitch.tv/tastelesstv) ASL/GSL commentator and top US protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
 
 ### Tournament Streams:
