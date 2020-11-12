@@ -70,18 +70,18 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 
 ## Twitch
 ### Personalities:
-- [80sMullet](https://www.twitch.tv/80smullet) - "The People's Terran" Chill-bro terran stream 1700-1820 MMR.
-- [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US terran (occasional troll protoss). Artosis has legendary impassioned tilt and fairly loose chat rules.
+- [80sMullet](https://www.twitch.tv/80smullet) - "The People's Terran" Chill-bro Terran stream 1700-1820 MMR.
+- [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US Terran (occasional troll Protoss). Artosis has legendary impassioned tilt and fairly loose chat rules.
 - [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Terran and BSL 8/9 winner.
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
-- [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank zerg, originally from South Korea currently residing in Canada.
+- [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
 - [Futuresc](https://www.twitch.tv/future_sc) - US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
 - [G5](https://www.twitch.tv/g5media) - Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players.
 - [gypsy](https://www.twitch.tv/gypsy93) - Top Canadian Terran player and BSL commentator with tutorial tidbits.
 - [Hazelynut](https://www.twitch.tv/hazelynut) - Zerg player, community/tournament organizer. Great tutorial resource for new players.
-- [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff zerg/caster stream. Fun zvzs. Often plays UMS.
+- [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff Zerg/caster stream. Fun zvzs. Often plays UMS.
 - [Jaeyun](https://www.twitch.tv/jaeyun) - Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR.
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
@@ -89,7 +89,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Moletrap](https://www.twitch.tv/moletrap) - Live re-broadcasts of old OSL/MSL finals matches with high production value.
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
 - [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis.
-- [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
+- [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
 
 ### Tournament Streams:
 - [BSL](https://www.twitch.tv/zzzeropl) - BSL streaming location (occasional ZZZeropl first person stream).
