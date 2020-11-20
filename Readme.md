@@ -32,6 +32,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [BSL](https://bombasticstarleague.com/) - The premier tournament for foreigner (outside of Korea) StarCraft.
 - [Have at you!](https://battlefy.com/have-at-you) - Semi-weekly 1v1 open bracket tournament with a donation based prize pool. Hosted by [Schamtoo](#personalities).
 - [SSCAIT](https://sscaitournament.com/) - Student StarCraft AI Tournament & Ladder, organized by the Department of Computer Science, Czech Technical University in Prague.
+- [STPL](https://www.twitch.tv/stpl) - Shinhan Tank Proleague a global team league featuring the best players in the entire world!
 - [Turf Wars](https://liquipedia.net/starcraft/Turf_Wars) - North American team league with an irreverent focus.
 
 ## Forums
@@ -55,6 +56,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [StarCraft 2 AI](https://discordapp.com/invite/Emm5Ztz) - Competitive StarCraft 2 AI community with a [ladder](https://sc2ai.net/) system.
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) - StarCraft and StarCraft: Brood War map-making, modding, and tools community.
 - [The Engineering Bay](https://discord.com/invite/cV5tzs5) - Supporting technical (programming/arts) contributions to the StarCraft community.
+- [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
 
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
@@ -62,6 +64,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) - LMasters StarCraft channel highlighting foreigner StarCraft players and tutorials.
 - [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) - Moletrap's home channel covering OSL/MSL games of years past.
+- [MasterRey](https://www.youtube.com/channel/UC7adrT5sMt8jkusa-On9BTA) - German Protoss player (maker of SCR: Chart).
 - [Nyoken](https://www.youtube.com/channel/UCfnhc230Rvg9yOzDr-Y_dBQ) - Home channel of BSL commentator Nyoken containing a few extremely informative videos.
 - [SC:BW Dual FPVOD](https://www.youtube.com/channel/UCBy3Tyss3Efm9rIUuj0X00Q) - Dual first person views of professional Korean players.
 - [StarCastTV](https://www.youtube.com/channel/UCZv1jNT2Fe3uLC9oPrw9oOQ) - StarCastTV features a number of casters covering top level Korean replays.
