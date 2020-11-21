@@ -47,6 +47,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Discord
 - [AI Arena](https://discord.com/invite/jx3V65F) - Where [humans can fight AI](https://aiarena.net/) in StarCraft II.
 - [Liquipedia](https://discord.com/invite/liquipedia) - Community of [esports wiki](https://liquipedia.net/) maintainers.
+- [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
 - [Oceanic Brood War](https://discord.gg/QgH72rb) - Australian and New Zealand Brood War community discord.
 - [Rookie Star League](https://discord.com/invite/Q5xScXGMss) - A competitive discord community for new players.
 - [SCHNAIL](https://discord.gg/W6u6a7p) - StarCraft Human n' AI League, where humans face off versus machines in Brood War.
@@ -56,15 +57,15 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [StarCraft 2 AI](https://discordapp.com/invite/Emm5Ztz) - Competitive StarCraft 2 AI community with a [ladder](https://sc2ai.net/) system.
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) - StarCraft and StarCraft: Brood War map-making, modding, and tools community.
 - [The Engineering Bay](https://discord.com/invite/cV5tzs5) - Supporting technical (programming/arts) contributions to the StarCraft community.
-- [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
+
 
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) - Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream.
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) - LMasters StarCraft channel highlighting foreigner StarCraft players and tutorials.
-- [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) - Moletrap's home channel covering OSL/MSL games of years past.
 - [MasterRey](https://www.youtube.com/channel/UC7adrT5sMt8jkusa-On9BTA) - German Protoss player (maker of SCR: Chart).
+- [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) - Moletrap's home channel covering OSL/MSL games of years past.
 - [Nyoken](https://www.youtube.com/channel/UCfnhc230Rvg9yOzDr-Y_dBQ) - Home channel of BSL commentator Nyoken containing a few extremely informative videos.
 - [SC:BW Dual FPVOD](https://www.youtube.com/channel/UCBy3Tyss3Efm9rIUuj0X00Q) - Dual first person views of professional Korean players.
 - [StarCastTV](https://www.youtube.com/channel/UCZv1jNT2Fe3uLC9oPrw9oOQ) - StarCastTV features a number of casters covering top level Korean replays.
