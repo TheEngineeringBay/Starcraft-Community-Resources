@@ -50,6 +50,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
 - [Oceanic Brood War](https://discord.gg/QgH72rb) - Australian and New Zealand Brood War community discord.
 - [Rookie Star League](https://discord.com/invite/Q5xScXGMss) - A competitive discord community for new players.
+- [Rogue's Gallery Discord](https://discord.gg/SEFcDZK) - Official discord for rogue's gallery tournament
 - [SCHNAIL](https://discord.gg/W6u6a7p) - StarCraft Human n' AI League, where humans face off versus machines in Brood War.
 - [SCRChart](https://discordapp.com/invite/mSmKkTv) - Spiritual successor of BWChart, a replay analyzer.
 - [ShieldBattery](https://discord.com/invite/N2BpZ46) - A community-run platform for competitive StarCraft: Remastered.
@@ -100,7 +101,9 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ### Tournament Streams:
 - [BSL](https://www.twitch.tv/zzzeropl) - BSL streaming location (occasional ZZZeropl first person stream).
 - [Have at you!](https://www.twitch.tv/schamtoo) - *Have at you!* streaming location (when not streaming Schamtoo first person).
+- [Rogue's Gallery](https://discord.gg/SEFcDZK) - Irreverent North American team tournament 
 - [SSCAIT](https://www.twitch.tv/sscait) - 24/7 AI vs AI stream, with automatic camera that pans to where action is happening.
+
 
 
 ## Replays
