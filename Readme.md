@@ -53,7 +53,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Rogue's Gallery Discord](https://discord.gg/SEFcDZK) - Official discord for rogue's gallery tournament
 - [SCHNAIL](https://discord.gg/W6u6a7p) - StarCraft Human n' AI League, where humans face off versus machines in Brood War.
 - [SCRChart](https://discordapp.com/invite/mSmKkTv) - Spiritual successor of BWChart, a replay analyzer.
-- [ShieldBattery](https://discord.com/invite/N2BpZ46) - A community-run platform for competitive StarCraft: Remastered.
+- [ShieldBattery](https://discord.gg/S8dfMx94a4) - A community-run platform for competitive StarCraft: Remastered.
 - [SSCAIT](https://discord.com/channels/226400736013975552/746721989791711312/746722414871969832) - Student StarCraft AI Tournament & Ladder.
 - [StarCraft 2 AI](https://discordapp.com/invite/Emm5Ztz) - Competitive StarCraft 2 AI community with a [ladder](https://sc2ai.net/) system.
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) - StarCraft and StarCraft: Brood War map-making, modding, and tools community.
