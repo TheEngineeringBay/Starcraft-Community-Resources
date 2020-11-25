@@ -106,7 +106,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 
 
 
-## Replays
+## Maps and Replays
 - [BWreplays](http://bwreplays.com/) - Aggregates replays from iCCup, TeamLiquid.net, Reps.ru and other sites.
 - [Repmastered](https://repmastered.app/) - A replay sharing and analyzer site.
 - [Reps.ru Replays](https://reps.ru/replay?type=user) - Russian hosted replay site. For English translation, visit [here](https://translate.google.com/translate?sl=auto&tl=en&u=https://reps.ru/).
