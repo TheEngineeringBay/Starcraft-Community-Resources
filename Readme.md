@@ -111,4 +111,4 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Repmastered](https://repmastered.app/) - A replay sharing and analyzer site.
 - [Reps.ru Replays](https://reps.ru/replay?type=user) - Russian hosted replay site. For English translation, visit [here](https://translate.google.com/translate?sl=auto&tl=en&u=https://reps.ru/).
 - [TL replays](https://tl.net/replay/) - TeamLiquid replays archive.
-- [Broodwarmaps.net](http://www.panschk.de/mappage/newsscript/viewnews.php) - A site hosting a number of maps and foreigner replays
+- [Broodwarmaps.net](http://www.panschk.de/mappage/newsscript/viewnews.php) - A site hosting a number of maps and replays
