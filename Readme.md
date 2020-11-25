@@ -15,7 +15,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Twitch](#twitch)
     - [Personalities](#personalities)
     - [Tournament Streams](#tournament-streams)
-- [Maps and Replays](#replays)
+- [Maps and Replays](#maps-and-replays)
 
 *<sub><sup>[Generated with markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)*
 
