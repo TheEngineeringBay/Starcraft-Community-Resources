@@ -64,6 +64,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) - Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream.
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
+- [JinJin](https://www.youtube.com/user/IIjinjinnII) - Subbed guides from Korean pro-gamers and other fun translated content
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) - LMasters StarCraft channel highlighting foreigner StarCraft players and tutorials.
 - [MasterRey](https://www.youtube.com/channel/UC7adrT5sMt8jkusa-On9BTA) - German Protoss player (maker of SCR: Chart).
 - [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) - Moletrap's home channel covering OSL/MSL games of years past.
