@@ -30,7 +30,9 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Tournaments
 - [ASL](https://www.youtube.com/watch?v=ta-zZKfeZUA&list=PLo2fPnM8EiQxasMyU-dcUGlrNzqeX_jAL) - The premier tournament for professional StarCraft players.
 - [BSL](https://bombasticstarleague.com/) - The premier tournament for foreigner (outside of Korea) StarCraft.
+- [CPL](https://www.twitch.tv/coachpupilleague) - Coach pupil league. A league for players of all levels to come together and improve at the game
 - [Have at you!](https://battlefy.com/have-at-you) - Semi-weekly 1v1 open bracket tournament with a donation based prize pool. Hosted by [Schamtoo](#personalities).
+- [RSL](https://www.twitch.tv/least_bw) - Rookie Star League. A league for players to compete with MMR below 1350.
 - [SSCAIT](https://sscaitournament.com/) - Student StarCraft AI Tournament & Ladder, organized by the Department of Computer Science, Czech Technical University in Prague.
 - [STPL](https://www.twitch.tv/stpl) - Shinhan Tank Proleague a global team league featuring the best players in the entire world!
 - [Turf Wars](https://liquipedia.net/starcraft/Turf_Wars) - North American team league with an irreverent focus.
@@ -46,6 +48,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 
 ## Discord
 - [AI Arena](https://discord.com/invite/jx3V65F) - Where [humans can fight AI](https://aiarena.net/) in StarCraft II.
+- [CPL](https://discord.gg/6QEXQ8d) - Coach pupil league. A league for players of all levels to come together and improve at the game
 - [Liquipedia](https://discord.com/invite/liquipedia) - Community of [esports wiki](https://liquipedia.net/) maintainers.
 - [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
 - [Oceanic Brood War](https://discord.gg/QgH72rb) - Australian and New Zealand Brood War community discord.
@@ -58,6 +61,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [StarCraft 2 AI](https://discordapp.com/invite/Emm5Ztz) - Competitive StarCraft 2 AI community with a [ladder](https://sc2ai.net/) system.
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) - StarCraft and StarCraft: Brood War map-making, modding, and tools community.
 - [The Engineering Bay](https://discord.com/invite/cV5tzs5) - Supporting technical (programming/arts) contributions to the StarCraft community.
+- [Titanes del Ring](https://discord.gg/TjEX22T) - South American discord which organizes different events like the current nation Wars.
 
 
 ## Youtube
