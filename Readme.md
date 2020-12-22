@@ -79,6 +79,8 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 
 
 ## Twitch
+### Stream aggragator: 
+- [Teamliquid Video Stream](https://tl.net/video/streams/) - A listing of popular starcraft (and other) streamers on afreecatv and twitch 
 ### Personalities:
 - [80sMullet](https://www.twitch.tv/80smullet) - "The People's Terran" Chill-bro Terran stream 1700-1820 MMR.
 - [ARG_Depleted](https://www.twitch.tv/arg_depleted) Top Argentina zerg player (Spanish stream)
