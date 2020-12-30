@@ -49,9 +49,9 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Discord
 - [AI Arena](https://discord.com/invite/jx3V65F) - Where [humans can fight AI](https://aiarena.net/) in StarCraft II.
 - [CPL](https://discord.gg/6QEXQ8d) - Coach pupil league. A league for players of all levels to come together and improve at the game
-- [Jaeyun] placeholder
+- [Jaeyun](https://discord.gg/dt5FGdT) - An amazing community for learning! Extremely respectful and chill. Home of Jaeyun. 
 - [Liquipedia](https://discord.com/invite/liquipedia) - Community of [esports wiki](https://liquipedia.net/) maintainers.
-- [Mulletopia](https://discord.com/invite/uJG36jM) - Preferred community of many laid back foreigner players. 
+- [Mulletopia](https://discord.com/invite/uJG36jM) - Preferred community of many laid back foreigner players, home of 80smullet. 
 - [No Hunters Free For All](https://discord.com/invite/kWNQvnd) - Fun and casual community for Melee and FFA games.
 - [Oceanic Brood War](https://discord.gg/QgH72rb) - Australian and New Zealand Brood War community discord.
 - [Rookie Star League](https://discord.com/invite/Q5xScXGMss) - A competitive discord community for new players.
