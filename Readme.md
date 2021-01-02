@@ -64,7 +64,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Staredit.net Discord](https://discord.gg/rKs3NDc) - StarCraft and StarCraft: Brood War map-making, modding, and tools community.
 - [The Engineering Bay](https://discord.com/invite/cV5tzs5) - Supporting technical (programming/arts) contributions to the StarCraft community.
 - [Titanes del Ring](https://discord.gg/TjEX22T) - South American discord which organizes different events like the current nation Wars.
-- [UEDAIP](https://discord.gg/K7d564W) - The UED AI Project. A project to recreate and expand the original starcraft campaigns via new AI scripts
+- [UEDAIP](https://discord.gg/K7d564W) - The UED AI Project. Major overhaul of the original Starcraft campaigns with gameplay improvements and new story elements
 
 
 ## Youtube
