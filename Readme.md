@@ -105,7 +105,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart).
 - [Moletrap](https://www.twitch.tv/moletrap) - Live re-broadcasts of old OSL/MSL finals matches with high production value.
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
-- [ReVolutionVir](https://www.twitch.tv/revolutionvir) - BWCL commentary 
+- [ReVolutionVir](https://www.twitch.tv/revolutionvir) - Gosuleague/Choboleague (BSL) BWCL and showmatch commentator. 
 - [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis.
 - [Oya187](https://www.twitch.tv/oya187) - Swedish Protoss player and member of team IRK
 - [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
