@@ -88,7 +88,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [80sMullet](https://www.twitch.tv/80smullet) - "The People's Terran" Chill-bro Terran stream 1700-1820 MMR.
 - [ARG_Depleted](https://www.twitch.tv/arg_depleted) Top Argentina zerg player (Spanish stream)
 - [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US Terran (occasional troll Protoss). Artosis has legendary impassioned tilt and fairly loose chat rules.
-- [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Terran and BSL 8/9 winner.
+- [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Protoss and BSL 8/9 winner.
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
