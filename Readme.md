@@ -49,6 +49,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Discord
 - [AI Arena](https://discord.com/invite/jx3V65F) - Where [humans can fight AI](https://aiarena.net/) in StarCraft II.
 - [CPL](https://discord.gg/6QEXQ8d) - Coach pupil league. A league for players of all levels to come together and improve at the game
+- [Foreign Brood War](https://discord.com/invite/yvQxsmw) - A server that is community driven and is a place not only for StarCraft enthusiasts, but friends.
 - [Jaeyun](https://discord.gg/dt5FGdT) - An amazing community for learning! Extremely respectful and chill. Home of Jaeyun. 
 - [Liquipedia](https://discord.com/invite/liquipedia) - Community of [esports wiki](https://liquipedia.net/) maintainers.
 - [Mulletopia](https://discord.com/invite/uJG36jM) - Preferred community of many laid back foreigner players, home of 80smullet. 
