@@ -127,3 +127,4 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Broodwarmaps.net](http://www.panschk.de/mappage/newsscript/viewnews.php) - A site hosting a number of maps and replays
 - [TL Microtraining maps](https://liquipedia.net/starcraft/Micro_Training_Maps) - Links to a variety of maps for micro training
 - [Starcraft Broodwar maps archive](https://gitlab.com/scmaps.net/starcraft_brood_war_maps_archive/tree/master) - A huge archive of starcraft maps
+- [Modern Day Build orders](https://docs.google.com/spreadsheets/d/1m6nU6FewJBC2LGQX_DPuo4PqzxH8hF3bazp8T6QlqRs/edit#gid=1269736643) - A growing collection build orders
