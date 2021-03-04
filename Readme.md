@@ -95,6 +95,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
 - [Futuresc](https://www.twitch.tv/future_sc) - US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
 - [G5](https://www.twitch.tv/g5media) - Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players.
+- [Gorynich](https://www.twitch.tv/g0rynich) - Top Russian Zerg - Informative tutorial commentary from top 10 BSL competitor.
 - [gypsy](https://www.twitch.tv/gypsy93) - Top Canadian Terran player and BSL commentator with tutorial tidbits.
 - [Hazelynut](https://www.twitch.tv/hazelynut) - Zerg player, community/tournament organizer. Great tutorial resource for new players.
 - [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff Zerg/caster stream. Fun zvzs. Often plays UMS.
