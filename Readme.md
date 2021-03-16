@@ -94,6 +94,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
+- [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
 - [Futuresc](https://www.twitch.tv/future_sc) - US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
 - [G5](https://www.twitch.tv/g5media) - Top American Protoss player. Very little chat interaction, but interesting discord calls with other top players.
