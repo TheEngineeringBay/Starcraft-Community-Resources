@@ -119,6 +119,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Have at you!](https://www.twitch.tv/schamtoo) - *Have at you!* streaming location (when not streaming Schamtoo first person).
 - [Rogue's Gallery](https://discord.gg/SEFcDZK) - Irreverent North American team tournament 
 - [SSCAIT](https://www.twitch.tv/sscait) - 24/7 AI vs AI stream, with automatic camera that pans to where action is happening.
+- [TeamThinkQuick](https://www.twitch.tv/teamthinkquickttv) - Regular tQ show matches and Top foreigner tournament involving community maps
 
 
 
