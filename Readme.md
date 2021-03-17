@@ -101,6 +101,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Gorynich](https://www.twitch.tv/g0rynich) - Top Russian Zerg - Informative tutorial commentary from top 10 BSL competitor.
 - [gypsy](https://www.twitch.tv/gypsy93) - Top Canadian Terran player and BSL commentator with tutorial tidbits.
 - [Hazelynut](https://www.twitch.tv/hazelynut) - Zerg player, community/tournament organizer. Great tutorial resource for new players.
+- [HawkSC](https://www.twitch.tv/hawksc) - Top American Zerg with tutorial content
 - [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff Zerg/caster stream. Fun zvzs. Often plays UMS.
 - [Jaeyun](https://www.twitch.tv/jaeyun) - Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR.
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
