@@ -103,6 +103,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Hazelynut](https://www.twitch.tv/hazelynut) - Zerg player, community/tournament organizer. Great tutorial resource for new players.
 - [HawkSC](https://www.twitch.tv/hawksc) - Top American Zerg with tutorial content
 - [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff Zerg/caster stream. Fun zvzs. Often plays UMS.
+- [imjiraaiyaa](https://www.twitch.tv/imjiraiyaa) - Top American Zerg player who enjoys ultralisks endgame
 - [Jaeyun](https://www.twitch.tv/jaeyun) - Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR.
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
