@@ -108,7 +108,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
 - [MARRS](https://www.twitch.tv/maarsbw) - Top level Terran 
-- [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart).
+- [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart). Also streams korean lessons
 - [Moletrap](https://www.twitch.tv/moletrap) - Live re-broadcasts of old OSL/MSL finals matches with high production value.
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
 - [ReVolutionVir](https://www.twitch.tv/revolutionvir) - Gosuleague/Choboleague (BSL) BWCL and showmatch commentator. 
