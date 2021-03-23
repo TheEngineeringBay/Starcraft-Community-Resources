@@ -72,6 +72,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) - Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream.
+- [Falcon Paladin](https://www.youtube.com/channel/UCB73iJpB6hhq99IOM4aqX_Q) - HD broodwar casts
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [JinJin](https://www.youtube.com/user/IIjinjinnII) - Subbed guides from Korean pro-gamers and other fun translated content
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) - LMasters StarCraft channel highlighting foreigner StarCraft players and tutorials.
