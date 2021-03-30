@@ -94,6 +94,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Protoss and BSL 8/9 winner.
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
+- [dewalt](https://www.twitch.tv/dewalttv) - Perennial top 4 BSL contender and protoss phenom 
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
 - [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
