@@ -118,6 +118,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis.
 - [Oya187](https://www.twitch.tv/oya187) - Swedish Protoss player and member of team IRK
 - [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
+- [Translated Starcraft Pro Videos](https://www.youtube.com/channel/UCxjcbJgKf0_72TKPQ6SeVZQ) - English subtitles on korean pro tutorials
 
 ### Tournament Streams:
 - [BSL](https://www.twitch.tv/zzzeropl) - BSL streaming location (occasional ZZZeropl first person stream).
