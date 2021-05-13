@@ -96,6 +96,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [dewalt](https://www.twitch.tv/dewalttv) - Perennial top 4 BSL contender and protoss phenom 
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
+- [ash.Dreamer](https://www.twitch.tv/ash_dreamer) - 2100 mmr protoss russian. Hasuleague runner up BSL 11
 - [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
 - [Futuresc](https://www.twitch.tv/future_sc) - US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
@@ -110,7 +111,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
 - [MARRS](https://www.twitch.tv/maarsbw) - Top level Terran 
-- [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart). Also streams korean lessons
+- [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart). Also streams korean lessons Hasu league champ
 - [Moletrap](https://www.twitch.tv/moletrap) - Live re-broadcasts of old OSL/MSL finals matches with high production value.
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
 - [ReVolutionVir](https://www.twitch.tv/revolutionvir) - Gosuleague/Choboleague (BSL) BWCL and showmatch commentator. 
