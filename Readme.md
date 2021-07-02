@@ -96,7 +96,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [dewalt](https://www.twitch.tv/dewalttv) - Perennial top 4 BSL contender and protoss phenom 
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
-- [ash.Dreamer](https://www.twitch.tv/ash_dreamer) - 2100 mmr protoss russian. Hasuleague runner up BSL 11
+- [ash.Dreamer](https://www.twitch.tv/ash_dreamer_) - 2100 mmr protoss russian. Hasuleague runner up BSL 11
 - [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
 - [Futuresc](https://www.twitch.tv/future_sc) - US Protoss player with wild shifts in MMR. Fun micro oriented play style. 
