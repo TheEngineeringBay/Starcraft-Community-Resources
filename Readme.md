@@ -51,6 +51,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Artosis](https://discord.gg/Artosis) - Home of Artosis 
 - [Broodwar Melee Map Meeting Place](https://discord.gg/6gTesna) - A discord for mapmakers to gather and discuss broodwar map creation
 - [CPL](https://discord.gg/6QEXQ8d) - Coach pupil league. A league for players of all levels to come together and improve at the game
+- [Diggscord](https://discord.gg/8wJ9G6ZxXr) - Home of Diggitysc
 - [Foreign Brood War](https://discord.com/invite/yvQxsmw) - A server that is community driven and is a place not only for StarCraft enthusiasts, but friends.
 - [Jaeyun](https://discord.gg/dt5FGdT) - An amazing community for learning! Extremely respectful and chill. Home of Jaeyun. 
 - [Liquipedia](https://discord.com/invite/liquipedia) - Community of [esports wiki](https://liquipedia.net/) maintainers.
@@ -73,6 +74,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) - Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream.
+- [Diggitysc](https://www.youtube.com/user/diggitysc) - Diggity commentates BSL Hasuleague (Top 50-81 players BSL ladder, 1900-2050-ish MMR) and Choboleague (top 82-xx ladder players typically 1600-1900 MMR) with some OSL/MSL stuff deep in the archive
 - [Falcon Paladin](https://www.youtube.com/channel/UCB73iJpB6hhq99IOM4aqX_Q) - HD broodwar casts
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [JinJin](https://www.youtube.com/user/IIjinjinnII) - Subbed guides from Korean pro-gamers and other fun translated content
@@ -96,6 +98,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
 - [dewalt](https://www.twitch.tv/dewalttv) - Perennial top 4 BSL contender and protoss phenom 
+- [Diggitysc](https://www.twitch.tv/diggitysc) - Deep voice commentator of BSL Chobo/Hasuleague
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
 - [ash.Dreamer](https://www.twitch.tv/ash_dreamer_) - 2100 mmr protoss russian. Hasuleague runner up BSL 11
 - [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
