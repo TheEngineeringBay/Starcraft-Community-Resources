@@ -79,7 +79,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [JinJin](https://www.youtube.com/user/IIjinjinnII) - Subbed guides from Korean pro-gamers and other fun translated content
 - [LMaster](https://www.youtube.com/channel/UCUivqdspU_ISSGr3C33oamw) - LMasters StarCraft channel highlighting foreigner StarCraft players and tutorials.
-- [MasterRey](https://www.youtube.com/channel/UC7adrT5sMt8jkusa-On9BTA) - German Protoss player (maker of SCR: Chart).
+- [MasterRey](https://www.youtube.com/channel/UC7adrT5sMt8jkusa-On9BTA) - German Protoss player and BSL Hasuleague Champion  (maker of SCR: Chart).
 - [Moletrap](https://www.youtube.com/channel/UCca8V5RAsfnAegDl4bR2K2Q) - Moletrap's home channel covering OSL/MSL games of years past.
 - [Nyoken](https://www.youtube.com/channel/UCfnhc230Rvg9yOzDr-Y_dBQ) - Home channel of BSL commentator Nyoken containing a few extremely informative videos.
 - [SC:BW Dual FPVOD](https://www.youtube.com/channel/UCBy3Tyss3Efm9rIUuj0X00Q) - Dual first person views of professional Korean players.
