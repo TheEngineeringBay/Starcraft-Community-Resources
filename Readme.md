@@ -144,3 +144,4 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [TL Microtraining maps](https://liquipedia.net/starcraft/Micro_Training_Maps) - Links to a variety of maps for micro training
 - [Starcraft Broodwar maps archive](https://gitlab.com/scmaps.net/starcraft_brood_war_maps_archive/tree/master) - A huge archive of starcraft maps
 - [Modern Day Build orders](https://docs.google.com/spreadsheets/d/1m6nU6FewJBC2LGQX_DPuo4PqzxH8hF3bazp8T6QlqRs/edit#gid=1269736643) - A growing collection build orders
+- [TLPD (TeamLiquid Player Database)](https://tl.net/tlpd/korean/players/detailed-elo) - A detailed index of player matchups, elo, winrates etc of professional Korean broodwar players
