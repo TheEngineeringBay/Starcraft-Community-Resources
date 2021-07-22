@@ -93,7 +93,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ### Personalities:
 - [80sMullet](https://www.twitch.tv/80smullet) - "The People's Terran" Chill-bro Terran stream 1700-1820 MMR.
 - [ARG_Depleted](https://www.twitch.tv/arg_depleted) Top Argentina zerg player (Spanish stream)
-- [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US Terran (occasional troll Protoss). Artosis has legendary impassioned tilt and fairly loose chat rules.
+- [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US Terran (occasional troll Protoss). Artosis has legendary impassioned tilt and fairly loose chat rules (or according to Artosis/Schamtoo, Truthsaying)
 - [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Protoss and BSL 8/9 winner.
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
 - [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
@@ -120,7 +120,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
 - [ReVolutionVir](https://www.twitch.tv/revolutionvir) - Gosuleague/Choboleague (BSL) BWCL and showmatch commentator. 
 - [Ruskig1](https://www.twitch.tv/ruskig1) - High rank A protoss. Rarer streams. Generally chill dude
-- [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis.
+- [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis. (or according to Artosis/Schamtoo, Truthsaying)
 - [Scan](https://www.twitch.tv/skryoo1004) - Top Korean Terran Professional (ASL participant) and coach for Artosis
 - [Oya187](https://www.twitch.tv/oya187) - Swedish Protoss player and member of team IRK
 - [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
