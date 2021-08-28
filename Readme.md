@@ -125,6 +125,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Ruskig1](https://www.twitch.tv/ruskig1) - High rank A protoss. Rarer streams. Generally chill dude
 - [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis. (or according to Artosis/Schamtoo, Truthsaying)
 - [Scan](https://www.twitch.tv/skryoo1004) - Top Korean Terran Professional (ASL participant) and coach for Artosis
+- [StRyKeR](https://www.twitch.tv/stryker17sc) - Top North American Zerg player and Rogue's Gallery team captain
 - [Sugo](https://www.twitch.tv/sugoBW) - Top American Protoss 2nd place NYC Lan and Rogue's Gallery participant
 - [Oya187](https://www.twitch.tv/oya187) - Swedish Protoss player and member of team IRK
 - [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
