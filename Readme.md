@@ -85,6 +85,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [SC:BW Dual FPVOD](https://www.youtube.com/channel/UCBy3Tyss3Efm9rIUuj0X00Q) - Dual first person views of professional Korean players.
 - [StarCastTV](https://www.youtube.com/channel/UCZv1jNT2Fe3uLC9oPrw9oOQ) - StarCastTV features a number of casters covering top level Korean replays.
 - [Rise](https://www.youtube.com/channel/UCWC62qc2upqCyZPLT6qtxGA) - Rise commentates top level Foreigner replays.
+- [Translated Starcraft Pro Videos](https://www.youtube.com/channel/UCxjcbJgKf0_72TKPQ6SeVZQ) - English subtitles on korean pro tutorials=-
 
 
 ## Twitch
@@ -96,10 +97,11 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Artosis](https://www.twitch.tv/artosis) - ASL/GSL commentator and top US Terran (occasional troll Protoss). Artosis has legendary impassioned tilt and fairly loose chat rules (or according to Artosis/Schamtoo, Truthsaying)
 - [Bonyth](https://www.twitch.tv/bonyth) - Top Polish Protoss and BSL 8/9 winner.
 - [Cadenzie](https://www.twitch.tv/cadenzie) - Top Scotland Zerg previously in Korea working towards pro  (1900-2100 MMR).
-- [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada.
+- [cRoSsiee](https://www.twitch.tv/crossiee) - S Rank Zerg, originally from South Korea currently residing in Canada. Rogues gallery captain
 - [dewalt](https://www.twitch.tv/dewalttv) - Perennial top 4 BSL contender and protoss phenom 
 - [Diggitysc](https://www.twitch.tv/diggitysc) - Deep voice commentator of BSL Chobo/Hasuleague
 - [DocHoliday](https://www.twitch.tv/docholiday_tv) - Irreverant Zerg stream, with fun music and occasional lighthearted rant/singing outbursts.
+- [Dragon](https://www.twitch.tv/dragonbw) - Top Canadian Protoss/Zerg(vP) Player, Rogues gallery captain and Top BSL Contender 
 - [ash.Dreamer](https://www.twitch.tv/ash_dreamer_) - 2100 mmr protoss russian. Hasuleague runner up BSL 11
 - [eOnzErG](https://www.twitch.tv/imeonzerg) - Top Belgian Zerg and regular round of 16+ BSL contender
 - [Fathersc](https://www.twitch.tv/father_sc) - Relaxed Terran stream.
@@ -114,17 +116,20 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Jaeyun](https://www.twitch.tv/jaeyun) - Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR.
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
-- [MARRS](https://www.twitch.tv/maarsbw) - Top level Terran 
+- [MARRS](https://www.twitch.tv/maarsbw) - Top level Terran and Rogues gallery participant
 - [Masterrey](https://www.twitch.tv/masterrey) - German Protoss player (maker of SCR: Chart). Also streams korean lessons Hasu league champ
 - [Moletrap](https://www.twitch.tv/moletrap) - Live re-broadcasts of old OSL/MSL finals matches with high production value.
 - [Nyoken](https://www.twitch.tv/nyoken) - BSL Commentator and top US Terran.
 - [ReVolutionVir](https://www.twitch.tv/revolutionvir) - Gosuleague/Choboleague (BSL) BWCL and showmatch commentator. 
+- [Razz](https://twitch.tv/razzbw) - Old school US protoss player USA A Member Red Clan Member 
 - [Ruskig1](https://www.twitch.tv/ruskig1) - High rank A protoss. Rarer streams. Generally chill dude
 - [Schamtoo](https://www.twitch.tv/schamtoo) - Terran player, host of Have at you, caster and excellent observer. Impassioned tilt/rage stream similar to Artosis. (or according to Artosis/Schamtoo, Truthsaying)
 - [Scan](https://www.twitch.tv/skryoo1004) - Top Korean Terran Professional (ASL participant) and coach for Artosis
+- [Sugo](https://www.twitch.tv/sugoBW) - Top American Protoss 2nd place NYC Lan and Rogue's Gallery participant
 - [Oya187](https://www.twitch.tv/oya187) - Swedish Protoss player and member of team IRK
 - [Tasteless](https://www.twitch.tv/tastelesstv) - ASL/GSL commentator and top US Protoss with occasional chess stream. Awesome music and friendly trolling aimed at Artosis. 
-- [Translated Starcraft Pro Videos](https://www.youtube.com/channel/UCxjcbJgKf0_72TKPQ6SeVZQ) - English subtitles on korean pro tutorials
+- [Whip](https://www.twitch.tv/whipsmacks) - Top level Terran and Rogue's gallery participant
+
 
 ### Tournament Streams:
 - [BSL](https://www.twitch.tv/zzzeropl) - BSL streaming location (occasional ZZZeropl first person stream).
