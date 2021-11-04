@@ -114,6 +114,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [Herbmon](https://www.twitch.tv/herbmon) - Off the cuff Zerg/caster stream. Fun zvzs. Often plays UMS.
 - [imjiraaiyaa](https://www.twitch.tv/imjiraiyaa) - Top American Zerg player who enjoys ultralisks endgame
 - [Jaeyun](https://www.twitch.tv/jaeyun) - Top American Zerg and Protoss player with chill tutorial streams, a humble 2050 MMR.
+- [Jumperer](https://www.twitch.tv/jumperer) - Thai-American creative Protoss player 1900+ MMR
 - [kwark](https://www.twitch.tv/kwark_uk) - UK Protoss player with regular game talk.
 - [Machine](https://www.twitch.tv/machineusa) - Top US Zerg player and all around nice guy.
 - [MARRS](https://www.twitch.tv/maarsbw) - Top level Terran and Rogues gallery participant
