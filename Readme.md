@@ -74,7 +74,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 ## Youtube
 - [ASL](https://www.youtube.com/channel/UCK5eBtuoj_HkdXKHNmBLAXg) - ASL/GSL youtube channel.
 - [Artosis](https://www.youtube.com/channel/UCuOqvRRt9GqyIUVTwSB4Ucg) - Youtube page of ASL/GSL commentator Artosis highlighting interesting matches from his stream.
-- [Diggitysc](https://www.youtube.com/user/diggitysc) - Diggity commentates BSL Hasuleague (Top 50-81 players BSL ladder, 1900-2050-ish MMR) and Choboleague (top 82-xx ladder players typically 1600-1900 MMR) with some OSL/MSL stuff deep in the archive
+- [Diggitysc](https://www.youtube.com/user/diggitysc) - Diggity commentates BSL Proleague, Hasuleague (Top 50-81 players BSL ladder, 1900-2050-ish MMR) and Choboleague (top 82-xx ladder players typically 1600-1900 MMR) with some OSL/MSL stuff deep in the archive
 - [Falcon Paladin](https://www.youtube.com/channel/UCB73iJpB6hhq99IOM4aqX_Q) - HD broodwar casts
 - [Greth](https://www.youtube.com/channel/UCesqVQjpqMSeuuzFa8sJiaA) - Greth commentates low level/FFA and other matches with a focus on fun.
 - [JinJin](https://www.youtube.com/user/IIjinjinnII) - Subbed guides from Korean pro-gamers and other fun translated content
