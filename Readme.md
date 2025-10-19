@@ -50,6 +50,7 @@ Maintained by [The Engineering Bay](https://discord.gg/b3bWfPUwfx), a discord se
 - [AI Arena](https://discord.com/invite/jx3V65F) - Where [humans can fight AI](https://aiarena.net/) in StarCraft II.
 - [Artosis](https://discord.gg/Artosis) - Home of Artosis 
 - [Broodwar Melee Map Meeting Place](https://discord.gg/6gTesna) - A discord for mapmakers to gather and discuss broodwar map creation
+- [BWKT](https://discord.gg/dkWeWag5ts) - Brood War Korean Translations. This is the community that works on https://bonjwa.tv/ , the english-subtitled Brood War video gallery.
 - [CPL](https://discord.gg/6QEXQ8d) - Coach pupil league. A league for players of all levels to come together and improve at the game
 - [Diggscord](https://discord.gg/8wJ9G6ZxXr) - Home of Diggitysc
 - [Foreign Brood War](https://discord.com/invite/yvQxsmw) - A server that is community driven and is a place not only for StarCraft enthusiasts, but friends.
